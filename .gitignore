@@ -1,0 +1,6 @@
+JPEGImages
+*.mp4
+yolo_data
+*gz
+*.pdf
+TRAIN_YOLO_V5_ON_YOUR_CUSTOM_DATASET.ipynb
